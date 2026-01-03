@@ -1,0 +1,528 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\git spot_\\spot_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\TokenEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\entity\\TokenEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\NewsEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\entity\\NewsEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\JingdianxinxiEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\entity\\JingdianxinxiEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\EIException.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\entity\\EIException.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\DiscussjingdianxinxiEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\entity\\DiscussjingdianxinxiEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\DingpiaoxinxiEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\entity\\DingpiaoxinxiEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\ConfigEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\entity\\ConfigEntity.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\UserDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\dao\\UserDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\YonghuDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\dao\\YonghuDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\YonghupingjiaDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\dao\\YonghupingjiaDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\TokenDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\dao\\TokenDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\NewsDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\dao\\NewsDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\JingdianxinxiDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\dao\\JingdianxinxiDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\DiscussjingdianxinxiDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\dao\\DiscussjingdianxinxiDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\DingpiaoxinxiDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\dao\\DingpiaoxinxiDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\ConfigDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\dao\\ConfigDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\CommonDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\dao\\CommonDao.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\YonghupingjiaController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\controller\\YonghupingjiaController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\YonghuController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\controller\\YonghuController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\UserController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\controller\\UserController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\JingdianxinxiController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\controller\\JingdianxinxiController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\DiscussjingdianxinxiController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\controller\\DiscussjingdianxinxiController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\ConfigController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\controller\\ConfigController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\CommonController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\controller\\CommonController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\FileController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\controller\\FileController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\NewsController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\controller\\NewsController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\DingpiaoxinxiController.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\controller\\DingpiaoxinxiController.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\annotation\\IgnoreAuth.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\annotation\\IgnoreAuth.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\annotation\\APPLoginUser.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\annotation\\APPLoginUser.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\git spot_\\spot_\\src\\main\\java\\com\\config\\InterceptorConfig.java||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main\\java\\com\\config\\InterceptorConfig.java||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenEntity.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\TokenEntity.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\entity\\TokenEntity.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\TokenEntity.java",
+              "RelativeToolTip": "src\\main\\java\\com\\entity\\TokenEntity.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:35:09.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsEntity.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\NewsEntity.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\entity\\NewsEntity.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\NewsEntity.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\entity\\NewsEntity.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:35:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JingdianxinxiEntity.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\JingdianxinxiEntity.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\entity\\JingdianxinxiEntity.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\JingdianxinxiEntity.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\entity\\JingdianxinxiEntity.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:35:03.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EIException.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\EIException.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\entity\\EIException.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\EIException.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\entity\\EIException.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:35:01.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiscussjingdianxinxiEntity.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\DiscussjingdianxinxiEntity.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\entity\\DiscussjingdianxinxiEntity.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\DiscussjingdianxinxiEntity.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\entity\\DiscussjingdianxinxiEntity.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:34:58.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DingpiaoxinxiEntity.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\DingpiaoxinxiEntity.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\entity\\DingpiaoxinxiEntity.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\DingpiaoxinxiEntity.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\entity\\DingpiaoxinxiEntity.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:34:33.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfigEntity.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\ConfigEntity.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\entity\\ConfigEntity.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\entity\\ConfigEntity.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\entity\\ConfigEntity.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:34:28.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YonghupingjiaDao.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\YonghupingjiaDao.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\dao\\YonghupingjiaDao.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\YonghupingjiaDao.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\dao\\YonghupingjiaDao.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:34:22.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YonghuDao.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\YonghuDao.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\dao\\YonghuDao.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\YonghuDao.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\dao\\YonghuDao.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:34:18.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDao.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\UserDao.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\dao\\UserDao.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\UserDao.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\dao\\UserDao.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:34:15.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenDao.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\TokenDao.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\dao\\TokenDao.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\TokenDao.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\dao\\TokenDao.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:34:12.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewsDao.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\NewsDao.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\dao\\NewsDao.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\NewsDao.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\dao\\NewsDao.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:34:10.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JingdianxinxiDao.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\JingdianxinxiDao.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\dao\\JingdianxinxiDao.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\JingdianxinxiDao.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\dao\\JingdianxinxiDao.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:34:07.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DiscussjingdianxinxiDao.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\DiscussjingdianxinxiDao.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\dao\\DiscussjingdianxinxiDao.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\DiscussjingdianxinxiDao.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\dao\\DiscussjingdianxinxiDao.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:34:04.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DingpiaoxinxiDao.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\DingpiaoxinxiDao.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\dao\\DingpiaoxinxiDao.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\DingpiaoxinxiDao.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\dao\\DingpiaoxinxiDao.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:34:01.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConfigDao.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\ConfigDao.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\dao\\ConfigDao.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\ConfigDao.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\dao\\ConfigDao.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:33:56.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CommonDao.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\CommonDao.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\dao\\CommonDao.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\dao\\CommonDao.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\dao\\CommonDao.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:33:53.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DiscussjingdianxinxiController.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\DiscussjingdianxinxiController.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\controller\\DiscussjingdianxinxiController.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\DiscussjingdianxinxiController.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\controller\\DiscussjingdianxinxiController.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:32:53.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JingdianxinxiController.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\JingdianxinxiController.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\controller\\JingdianxinxiController.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\JingdianxinxiController.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\controller\\JingdianxinxiController.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:33:01.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserController.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\UserController.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\controller\\UserController.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\UserController.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\controller\\UserController.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:33:09.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "YonghuController.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\YonghuController.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\controller\\YonghuController.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\YonghuController.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\controller\\YonghuController.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:33:12.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "YonghupingjiaController.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\YonghupingjiaController.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\controller\\YonghupingjiaController.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\YonghupingjiaController.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\controller\\YonghupingjiaController.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:33:15.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConfigController.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\ConfigController.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\controller\\ConfigController.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\ConfigController.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\controller\\ConfigController.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:32:36.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CommonController.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\CommonController.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\controller\\CommonController.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\CommonController.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\controller\\CommonController.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:33:33.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FileController.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\FileController.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\controller\\FileController.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\FileController.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\controller\\FileController.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:33:40.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NewsController.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\NewsController.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\controller\\NewsController.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\NewsController.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\controller\\NewsController.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:33:28.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DingpiaoxinxiController.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\DingpiaoxinxiController.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\controller\\DingpiaoxinxiController.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\controller\\DingpiaoxinxiController.java*",
+              "RelativeToolTip": "src\\main\\java\\com\\controller\\DingpiaoxinxiController.java*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:32:49.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IgnoreAuth.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\annotation\\IgnoreAuth.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\annotation\\IgnoreAuth.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\annotation\\IgnoreAuth.java",
+              "RelativeToolTip": "src\\main\\java\\com\\annotation\\IgnoreAuth.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:31:06.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "APPLoginUser.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\annotation\\APPLoginUser.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\annotation\\APPLoginUser.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\annotation\\APPLoginUser.java",
+              "RelativeToolTip": "src\\main\\java\\com\\annotation\\APPLoginUser.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:31:01.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InterceptorConfig.java",
+              "DocumentMoniker": "D:\\git spot_\\spot_\\src\\main\\java\\com\\config\\InterceptorConfig.java",
+              "RelativeDocumentMoniker": "src\\main\\java\\com\\config\\InterceptorConfig.java",
+              "ToolTip": "D:\\git spot_\\spot_\\src\\main\\java\\com\\config\\InterceptorConfig.java",
+              "RelativeToolTip": "src\\main\\java\\com\\config\\InterceptorConfig.java",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-03T16:31:00.306Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
